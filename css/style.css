@@ -1,0 +1,9 @@
+@font-face {
+	font-family: minmoji;
+	src: local('minmoji'),
+	url('../fonts/minmoji') format('opentype');
+}
+
+body,html {
+	font-family: minmoji;
+}
